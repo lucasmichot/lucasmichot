@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lucas 👋
+# Hello there, I'm Lucas 👋
 
 **Software engineer · Berlin, Germany 🇩🇪**<br />
 Open source contributor working mostly with PHP, Laravel and TypeScript
